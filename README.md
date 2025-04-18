@@ -26,6 +26,4 @@ Ayrıca, bu proje, yeni başlayan Python geliştiricileri için GUI uygulamalar�
 ## Kurulum
 
 1. **Python Yükleyin**: [Python'u buradan indirin](https://www.python.org/downloads/).
-2. **Projeyi İndirin**:
-   ```bash
-   git clone https://github.com/kullanici_adiniz/restoran-siparis-uygulamasi.git
+
